@@ -1,0 +1,55 @@
+.main-section{
+    padding: 20px;
+    background-color: rgb(228, 228, 212);
+    font-family: 'Montserrat', sans-serif;
+}
+.image-container{
+    height: 500px;
+    background-image: url(https://www.dolomitebiking.com/pics/PassoGiau-roadbike.jpg);
+}
+h1{
+    color: rgb(138, 197, 183);
+    font-family: 'Prata', serif;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+h3{
+    font-family: 'Prata', serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.autore{
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+h6{
+    color: whitesmoke;
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    border-radius: 6px;
+    background: linear-gradient(to right, rgb(138, 197, 183) , rgb(30, 61, 90));
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px #dfdfdf;
+}
+.a{
+    text-decoration: none;
+    color: rgb(138, 197, 183);
+}
+.aHOME{
+    color: whitesmoke;
+    background-color: black;
+    padding: 16px;
+}
